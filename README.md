@@ -1,0 +1,1 @@
+This is a recreation of the game "Tycoon" from Persona 5 Royal! This is the Server Side of the website.
